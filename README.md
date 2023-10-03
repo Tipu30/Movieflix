@@ -25,44 +25,44 @@ To start contributing, follow the below guidelines:
 
 0. Take a look at the existing issues or create your own issues. Wait for the Issue to be assigned to you after which you can start working on it.
 
-1. Fork this repository.
+1. Fork this repository. <br/>
 
-2. Clone your forked copy of the project.
+2. Clone your forked copy of the project.<br/>
 
-git clone --depth 1 https://github.com/Tipu30/Movieflix.git
-3. Navigate to the project directory 📁 .
+git clone --depth 1 https://github.com/Tipu30/Movieflix.git <br/>
+3. Navigate to the project directory 📁 .<br/>
 
-cd Movie-Streaming-Website
-4. Add a reference(remote) to the original repository.
+cd Movie-Streaming-Website<br/>
+4. Add a reference(remote) to the original repository.<br/>
 
-git remote add upstream https://github.com/QAZIMAAZARSHAD/Movie-Streaming-Website.git 
-5. Check the remotes for this repository.
+git remote add upstream https://github.com/QAZIMAAZARSHAD/Movie-Streaming-Website.git <br/>
+5. Check the remotes for this repository.<br/>
 
-git remote -v
-6. Always take a pull from the upstream repository to your master branch to keep it at par with the main project(updated repository).
+git remote -v<br/>
+6. Always take a pull from the upstream repository to your master branch to keep it at par with the main project(updated repository).<br/>
 
-git pull upstream master
-7. Create a new branch.
+git pull upstream master<br/>
+7. Create a new branch.<br/>
 
-git checkout -b <your_branch_name>
-8. Perform your desired changes to the code base.
+git checkout -b <your_branch_name><br/>
+8. Perform your desired changes to the code base.<br/>
 
 
 
-9. Track your changes✔️ .
-git add .
+9. Track your changes✔️ .<br/>
+git add .<br/>
 
-11. Commit your changes .
+11. Commit your changes .<br/>
 
-git commit -m "Relevant message"
-11. Push the committed changes in your feature branch to your remote repo.
+git commit -m "Relevant message"<br/>
+11. Push the committed changes in your feature branch to your remote repo.<br/>
 
-git push -u origin <your_branch_name>
+git push -u origin <your_branch_name><br/>
 12. To create a pull request, click on compare and pull requests. Please ensure you compare your feature branch to the desired branch of the repo you are supposed to make a PR to.
 
 13. Add an appropriate title and description to your pull request explaining your changes and efforts done.
 
-14. Click on Create Pull Request.
+14. Click on Create Pull Request.<br/>
 
 
 
