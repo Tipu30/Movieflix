@@ -47,8 +47,6 @@ git pull upstream master<br/>
 git checkout -b <your_branch_name><br/>
 8. Perform your desired changes to the code base.<br/>
 
-
-
 9. Track your changes✔️ .<br/>
 git add .<br/>
 
