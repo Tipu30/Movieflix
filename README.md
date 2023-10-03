@@ -50,9 +50,9 @@ git checkout -b <your_branch_name>
 
 
 9. Track your changes✔️ .
+git add .
 
-git add . 
-10. Commit your changes .
+11. Commit your changes .
 
 git commit -m "Relevant message"
 11. Push the committed changes in your feature branch to your remote repo.
